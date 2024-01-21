@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GScheduler</string>
+    <string name="vsched">View Schedules</string>
+    <string name="viewSchedulesheader">Schedules</string>
+    <string name="schedtext">New Schedule</string>
+    <string name="nname">Schedule Name</string>
+    <string name="ndate">Date</string>
+    <string name="ntime">Time</string>
+    <string name="defaulttime">0:00</string>
+    <string name="nnotes">Notes</string>
+    <string name="saveNew">Save</string>
+    <string name="delete">Delete</string>
+    <string name="addnew">New Schedule</string>
+</resources>
